@@ -1,0 +1,36 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #121212;
+  color: #e0e0e0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.container {
+  background: #1e1e1e;
+  padding: 20px 30px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  width: 90%;
+  max-width: 400px;
+}
+
+textarea {
+  width: 90%;
+  border-radius: 5px;
+  /* height: 100px; */
+  padding: 10px;
+  font-size: 16px;
+  margin-bottom: 10px;
+  resize: none;
+  background: #2a2a2a;
+  color: #fff;
+}
+
+p {
+  font-size: 20px;
+  margin: 0;
+}
