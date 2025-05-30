@@ -16,7 +16,6 @@ A custom dropdown is a manually created menu that mimics the functionality of a 
 - Using `click` events to toggle visibility
 - Adding/removing classes dynamically
 - Updating the selected option in real-time
-- Using `data-*` attributes for cleaner code
 
 ---
 
@@ -47,4 +46,4 @@ A custom dropdown is a manually created menu that mimics the functionality of a 
 
 ## 🎥 Video Tutorial
 
-This project is part of **Day 7** in the [JavaScript Mini Projects YouTube Series](#). Check the channel for the full breakdown!
+This project is part of **Day 7** in the [20 day JavaScript component building challenge YouTube Series](#). Check the channel for the full breakdown!
