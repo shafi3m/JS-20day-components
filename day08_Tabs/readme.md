@@ -33,7 +33,7 @@ In this project, we're building a **Tabs UI Component** using HTML, CSS, and Jav
 
 ## 🔗 Live Demo
 
-👉 [View on CodePen](https://codepen.io/shafi_3m/pen/dPoGLYx?editors=0100)
+👉 [View on CodePen](https://codepen.io/shafi_3m/pen/dPoGLYx)
 
 ---
 
