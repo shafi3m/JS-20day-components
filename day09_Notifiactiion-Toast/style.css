@@ -1,0 +1,37 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 2rem;
+  text-align: center;
+  background-color: #1e1e1e;
+  color: #fff;
+}
+
+#add-to-cart {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.toast {
+  visibility: hidden;
+  min-width: 250px;
+  margin-left: -125px;
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  border-radius: 5px;
+  padding: 16px;
+  position: fixed;
+  z-index: 1;
+  left: 50%;
+  bottom: 330px;
+  font-size: 17px;
+  opacity: 0;
+  transition: opacity 0.5s ease, bottom 0.5s ease;
+}
+
+.toast.show {
+  visibility: visible;
+  opacity: 1;
+  bottom: 350px;
+}
